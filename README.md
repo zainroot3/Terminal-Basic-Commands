@@ -11,3 +11,11 @@ The main part and my main purpose is to do practice on labs and make proof.
 That's why I am using github so here I can upload what I learn and what I practice daily to make it useful to get a job.
 # What's Today:
 In today repositary I have practice basic commands of linux on my terminal and their use is also on notes and I will also share images of my practice in a separate folder of images.
+These are not all commands but it's enough to understand other commands we will understand time to time.
+# What I know already that will help me:
+Windows    -> 2 year experience
+Linux      -> 2 year experience
+C          -> 1 year experience
+C++        -> 1 year experience (basics)
+Python     -> learned recently
+Networking -> I already learned advanced network scanning using nmap

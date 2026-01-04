@@ -14,8 +14,13 @@ In today repositary I have practice basic commands of linux on my terminal and t
 These are not all commands but it's enough to understand other commands we will understand time to time.
 # What I know already that will help me:
 Windows    -> 2 year experience
+
 Linux      -> 2 year experience
+
 C          -> 1 year experience
+
 C++        -> 1 year experience (basics)
+
 Python     -> learned recently
+
 Networking -> I already learned advanced network scanning using nmap

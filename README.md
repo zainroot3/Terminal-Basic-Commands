@@ -7,7 +7,7 @@ I will not use AI to look like professional, I will write my own words even they
 I am student not able to buy premium courses or teachers, So I am learning from tryhackme.com and the lectures which are premium I will learn them from youtube. I am also learning from WS Cube CyberSecurity youtube channel.So, you can say I am learning from tryhackme.com and youtube and in future may be I will also use hackthebox and other labs also
 # Why:
 Because learning and writing notes,etc is not my goal and it not the main part.
-The main part and my main purpose is to do practice on labs and make proof. I will rename image name with command nave
+The main part and my main purpose is to do practice on labs and make proof.
 That's why I am using github so here I can upload what I learn and what I practice daily to make it useful to get a job.
 # What's Today:
 In today repositary I have practice basic commands of linux on my terminal and their use is also on notes and I will try to also share images of my practice in a separate folder or in the command page.

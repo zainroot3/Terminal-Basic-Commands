@@ -10,7 +10,7 @@ Because learning and writing notes,etc is not my goal and it not the main part.
 The main part and my main purpose is to do practice on labs and make proof.
 That's why I am using github so here I can upload what I learn and what I practice daily to make it useful to get a job.
 # What's Today:
-In today repositary I have practice basic commands of linux on my terminal and their use is also on notes and I will also share images of my practice in a separate folder of images.
+In today repositary I have practice basic commands of linux on my terminal and their use is also on notes and I will try to also share images of my practice in a separate folder or in the command page.
 These are not all commands but it's enough to understand other commands we will understand time to time.
 # What I know already that will help me:
 Windows    -> 4 year experience

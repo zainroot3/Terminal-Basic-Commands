@@ -1,0 +1,208 @@
+                                        #####    To use Commands is CLI OS basic knowledge of OS is also required that is here:
+
+### What is Linux, Kernal and Terminal?
+
+Actually everyone think both of above are same but there's some difference, most people don't have answer on linux is OS or kernal. 
+But, correct is this that linux kernal and linux distrubations are separate.
+In 1991 linux Torwals make linux kernal.
+
+## Kernal
+
+Kernal is Basically the black window to interact between hardware and sofware.
+This is the black window, In which we can communicate or gave interactaion or you can say direct intruction sender to hardware.
+As, linux Torwalds make this that's why people started it saying linux.
+But, its just a black window to give instructions to hardware to perform tasks.
+Linux Kernal is the core of Operating system to interact with hardware to perfrom tasks.
+
+## Linux
+
+Then time to time we created different softwares and human understandable languages.
+Then we can command easily in human understandable language, this  language take commands from user and also send to kernal to perform task.
+Time to time we collected kernal, sofwares and libraries and we found complete OS.
+But, this OS called linux distrubation that also based on kernal.
+Linux is free, open source operating system and it is easy to modify.
+Linux is also community support distribution.
+Linux is OS to manage softwares take commands from user and give to hardware and perform tasks.
+
+## Terminal
+
+To give instructions to kernal is easy language, that is understandable by humans, we use command line called terminal.
+Terminal is the 3rd person between kernal and user that makes communication more easy.
+Basically, terminal takes command from you give it to terminal, then terminal give commands to the hardware.
+
+### Why Linux for Cyber Security?
+
+Because, linux is open source in which we have full control and we can perfrom advanced tasks and we have many tools already.
+All GUI not allowed us to perform advanced tasks like windows.
+In linux we can perform advanced tasks and use all security tools here.
+Linux have more control of hardware that's also a major reason of using linux.
+It is easy to make automations here because linux is open source OS.
+
+### File System of Linux
+
+If we want to use linux for advance use,then it is important for us to understand its basic structure.
+When we install linux, it creates a file system called partition called root location.
+
+        ## Example
+        
+                   When we install windows in our PC it creates a partition called C drive, but linux does'nt create C drive it create root locaion.
+
+## /
+
+This is our root location, all files start from here.
+This also store administator user.
+In linux admin user known as root user.
+
+## /home
+
+All users and their directories store of all guest users.
+
+## /usr
+
+All user programs and their libraries store here.
+
+## /bin, /sbin
+
+It store binaries.
+All system programs stored here.
+It telles the system what to do on commands.
+sbin is for OS tasks.
+
+## /etc
+
+It is the most important location.
+All the configurations file stored here.
+
+## /temp
+
+All the temporary files stored here.
+When we created a file temporary file of our file created here.
+It is helpful when we undo and redo because our file is also stored here temporary.
+When, we close our file our file deleted and if the file is not deleted, the file will be in this folder.
+
+## /dev, /proc, /sys
+
+These directories save all the device and system information.
+
+## /var
+
+It stores the logs of devices and data of all variables.
+
+### Need of this file system
+
+We know which file is for this if we want any data we know here it will be .
+So, it is very helpul in troubleshooting and recovery.
+It have standard paths.
+Security and Permissions.
+Organized file storage.
+Separation of system and users data.
+
+## Navigating the FileSystem
+
+In, this we can discuss how can we change or manage our location in our terminal.
+These are essentials command every user must know.
+
+## ls
+
+This command list files in our working directory.
+     # ls -l
+     
+     This is a type of ls that list long format.
+     If you use this command you can also check which is directory and which is file.
+     Directory will have d in start and file have- then permissions written of file.
+     
+     # ls -a
+     
+     It shows all the hidden files.
+     You will see the .(dot) in the starting of hidden files, In this way you can distinguish.
+     
+## pwd
+
+It prints the present working directory.
+
+## cd
+
+This is used to change our directory.
+cd stands for change directory.
+terminal is case sensitive, so if you want to change directory write name same it is and capital words capital and small words small.
+
+             # cd ..
+             
+             This is used to come one directory back.
+             
+## tree
+
+It shows all the data in files with details in tree format.
+If tree is not installed in your terminal just run command apt install tree.
+
+## find
+
+If we want to find and file we can use this command.
+If you don't have idea of any file how to use it write file name and --help.
+Here write find --help it will display all the methods to use find command.
+Like find /home -name passwd it will find all the files who have passwd in their name.
+This command mostly used in manual search.
+
+## locate
+
+The function of this command is same to find.
+In this just write locate and file name it will automatically find all files of same name.
+This command is mostly used in automatic search.
+
+## which
+
+It is also used to find but it gives us the location of commands.
+
+### File Operations
+
+These commands are used to perform all tha tasks related to files.
+
+## cp
+
+This command is used to copy a file.
+        
+        # cp -r
+        
+        Use this command if you want to copy the directory.
+        
+## mv
+
+This command is used to move or rename the file.
+If you write name that not exist in this way it rename the file.
+
+## rm 
+
+This is used to remove the file.
+         
+         # rm -r
+         
+         This is used to remove the directory.
+         
+## mkdir
+
+This is used to create directory.
+
+## mkdir -p
+
+This command is used to make parent directory.
+
+## rmdir
+
+This is used to remove empty directory.
+But this does'nt delete files who have data in it.
+
+## touch / nano
+
+These commands are used to make files.
+
+## stat
+
+This command is used to show the details of file.
+
+### Viewing files
+
+If you want to view or read the file following commands are use.
+
+## cat
+
+write cat and file name this is most used command to view the file.
